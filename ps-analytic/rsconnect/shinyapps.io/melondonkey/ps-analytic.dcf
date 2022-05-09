@@ -1,0 +1,13 @@
+name: ps-analytic
+title: ps-analytic
+username:
+account: melondonkey
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6244954
+bundleId: 5884505
+url: https://melondonkey.shinyapps.io/ps-analytic/
+when: 1652051237.18563
+lastSyncTime: 1652051237.18563
+asMultiple: FALSE
+asStatic: FALSE
